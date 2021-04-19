@@ -7,12 +7,9 @@ Created a simple frontend React application that allows a user to check the curr
 •	Used of the Open Weather Map API to make calls to a restful API to return the current weather data
 
 •	Created a Heroku post build script
-
-
-
+#
 Visit my project here - http://whispering-savannah-45722.herokuapp.com/
-
-
+#
 Technologies used:
 
 < Frontend: HTML, CSS, React />
